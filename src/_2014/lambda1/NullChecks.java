@@ -1,8 +1,7 @@
-package lambda1;
+package _2014.lambda1;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 
 class Fruit {
 	private final String name;

@@ -1,4 +1,4 @@
-package lambda1;
+package _2014.lambda1;
 
 import java.util.stream.IntStream;
 
