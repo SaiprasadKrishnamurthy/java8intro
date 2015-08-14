@@ -3,6 +3,12 @@
 .vagrant/
 data/docker/
 
+out/
+
+*.iml
+
+.idea/*
+
 # Node & Npm
 bower_components/
 node_modules/
